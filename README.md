@@ -1,5 +1,5 @@
 # DeviceID_WebApp
-Some trials to uniquely identify a device using a Web Application
+Some trials to uniquely identify a device using a Web Application (https://stackoverflow.com/questions/63506374/unique-deviceid-on-javascript-web-applicationangular-react)
 
 Basically while running on a Browser sandbox, an angular application would have some hard time to uniquely identify a device.
 
